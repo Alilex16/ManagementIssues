@@ -1,0 +1,2 @@
+C:\Users\Alex\Documents\Unity Projects\MiningManager\Temp\UnityVS_obj\Debug\MiningManager.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Unity Projects\MiningManager\Temp\UnityVS_obj\Debug\MiningManager.csproj.CoreCompileInputs.cache

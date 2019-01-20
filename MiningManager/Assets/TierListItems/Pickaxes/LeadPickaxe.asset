@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a90a51ff2fcce4ba7733a8da6d726e, type: 3}
+  m_Name: LeadPickaxe
+  m_EditorClassIdentifier: 
+  itemName: Lead Pickaxe
+  itemDescription: Second tier of mining.
+  itemIcon: {fileID: 21300000, guid: d4f6a89e3f25cb8409538a121482e049, type: 3}
+  itemReq01Icon: {fileID: 21300000, guid: b58420bb28a11184d8a61ed3d64919c8, type: 3}
+  itemReq02Icon: {fileID: 21300000, guid: 512cd0e7516750e4b9fb67230b961e5a, type: 3}
+  itemReq01Amount: 30
+  itemReq02Amount: 20
+  tierRank: 2
